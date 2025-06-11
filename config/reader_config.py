@@ -21,6 +21,6 @@ columns_in_use = {
 
 # Configuración TestLink
 TESTLINK_SERVER_URL = "https://testlink.mineduc.cl/lib/api/xmlrpc/v1/xmlrpc.php"
-TESTLINK_DEV_KEY = "da2ae82f74cf8fb5be3c3a633275f8dc"  # Generada en TestLink
+TESTLINK_DEV_KEY = "0e503e571b34618406f468c7c06f33fd"  # Generada en TestLink
 TESTLINK_PROJECT_ID = None   # ID de proyecto en TestLink
 TESTLINK_USER = "Jcastro"     # Usuario con permisos
