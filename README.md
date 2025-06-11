@@ -4,9 +4,9 @@ Script para transformar casos de prueba desde archivos Excel a XML compatibles c
 
 ## Requisitos
 - Python 3
-- testlink-api-python-client
+- testlink-api-client
 - Archivo Excel con formato válido
-- Configuración de config.py con URL y API key de TestLink
+- Configuración de reader_config.py con URL y API key de TestLink
 
 ## Uso
 1. Ejecuta exec_script.py para generar los XML.
